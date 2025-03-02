@@ -1,0 +1,62 @@
+[
+    {
+        "symbol": "AVAXTRY",
+        "action": "BUY",
+        "price": 862.5,
+        "quantity": 0.0057971
+    },
+    {
+        "symbol": "BTCZAR",
+        "action": "BUY",
+        "price": 1773829.0,
+        "quantity": 2.82e-06
+    },
+    {
+        "symbol": "LTCUSDT",
+        "action": "BUY",
+        "price": 123.06,
+        "quantity": 0.04063059
+    },
+    {
+        "symbol": "BTCBRL",
+        "action": "BUY",
+        "price": 551012.0,
+        "quantity": 9.07e-06
+    },
+    {
+        "symbol": "BTCUAH",
+        "action": "BUY",
+        "price": 4235108.0,
+        "quantity": 1.18e-06
+    },
+    {
+        "symbol": "SXPTRY",
+        "action": "BUY",
+        "price": 8.55,
+        "quantity": 0.58479532
+    },
+    {
+        "symbol": "BNBUSDT",
+        "action": "BUY",
+        "price": 638.41,
+        "quantity": 0.00783196
+    },
+    {
+        "symbol": "ADAUSDT",
+        "action": "BUY",
+        "price": 0.7318,
+        "quantity": 6.83246789
+    },
+    {
+        "symbol": "BTCUSDT",
+        "action": "BUY",
+        "price": 95649.29,
+        "quantity": 5.227e-05
+    },
+    {
+        "symbol": "HIVEUSDT",
+        "action": "BUY",
+        "price": 0.3207,
+        "quantity": 15.59089492
+    }
+]

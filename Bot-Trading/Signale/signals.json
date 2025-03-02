@@ -1,0 +1,62 @@
+[
+    {
+        "symbol": "XRPBTC",
+        "action": "BUY",
+        "price": 2.605e-05,
+        "quantity": 3.83877159
+    },
+    {
+        "symbol": "XRPETH",
+        "action": "BUY",
+        "price": 0.000922,
+        "quantity": 1.0845987
+    },
+    {
+        "symbol": "STORJBTC",
+        "action": "BUY",
+        "price": 3.82e-06,
+        "quantity": 26.17801047
+    },
+    {
+        "symbol": "BNBUSDT",
+        "action": "BUY",
+        "price": 623.1,
+        "quantity": 0.00802439
+    },
+    {
+        "symbol": "NEOUSDT",
+        "action": "BUY",
+        "price": 9.55,
+        "quantity": 0.52356021
+    },
+    {
+        "symbol": "ADXBTC",
+        "action": "BUY",
+        "price": 1.41e-06,
+        "quantity": 70.92198582
+    },
+    {
+        "symbol": "ADAETH",
+        "action": "BUY",
+        "price": 0.0002722,
+        "quantity": 3.67376929
+    },
+    {
+        "symbol": "LTCETH",
+        "action": "BUY",
+        "price": 0.04611,
+        "quantity": 0.02168727
+    },
+    {
+        "symbol": "LTCUSDT",
+        "action": "BUY",
+        "price": 114.91,
+        "quantity": 0.04351231
+    },
+    {
+        "symbol": "ICXBTC",
+        "action": "BUY",
+        "price": 1.37e-06,
+        "quantity": 72.99270073
+    }
+]
